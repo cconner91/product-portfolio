@@ -77,6 +77,7 @@
         <h2>Projects</h2>
         <div class="project">
             <h3>SharkLine Sports</h3>
+            <h4>Concept</h4>
             <p>I wanted to work on a project that I was passionate as well as knowledgeable about. As an avid sports fan, I thought there would be no better place to explore than a sports application.
 
                 I first began thinking of any current problems or needs that could be fulfilled. My mind turned to sports betting and DFS (Daily Fantasy Sports). With the sports gaming market being 
@@ -85,20 +86,48 @@
                 I've always been fascinated by trends. When it came to sports gambling, or any other investment-related craft, I enjoyed tracking data and comparing it against historical analytics. Simply having an
                 clear and concise view of performance metrics could help someone identify certain trends and use that data to make optimizations.
 
-                With the emergence of DraftKings, Fanduel, Underdog and all of these sports betting/DFS applications, I hadn't seen a full-scale optimization tool that could be used alongside those applications.
+                With the emergence of DraftKings, Fanduel, Underdog and all of these sports betting/DFS applications, I hadn't seen a full-scale optimization tool that could be used alongside those applications. </p>
 
                 This is when I decided to begin SharkLine Sports. A sports betting and DFS portfolio management application. I wanted to allow users to have a simplified way to not only keep track of their bets, profits, losses and 
                 bankroll management, but also give them a tool to make strategy adjustments. My goal was to deliver user stories with a clean and modern UX/UI. </p>
                 
-            
+            <h4>Project Framework</h4>
             <p> I put together a product roadmap, analyzing everything from the the framework and tech stack that should be used, to each and every user story that would be in my beta version.
 
                 I created the architecture for my Github repo's and branches. I used Figma to design the application layout and Photoshop to create an eye-catching logo and color scheme.
 
                 While I work each day alongside our engineering and development teams, and have a base understanding of web development, I am far from an expert in dev ops, code structure, DNS and overall code-level architecture.
 
-                While this made it a bit more challenging (and time consuming) than it would have otherwise, it has helped me gain a better understanding of building and integrating an application
-                with a full stack approach.
+                While this made it a bit more challenging (and time consuming) than it would have for web developer, it has helped me gain a better understanding of building and integrating an application
+                with a full stack approach. 
+                
+                In my Product Roadmap, I included the following user stories I wanted to accomplish:</p>
+
+        
+              <h5>Main Lander</h5>
+
+               <p>The home page for the user where they're able to access their account</p>
+            
+                <h5>Analytics</h5>
+
+                <p> 
+                    Sports Bet Input Tool
+                    Profit and Loss Statements 
+                    Profit Tracking Chart
+                    Trend Analyzer
+                    Odds Calculator and Bet Builder
+                    
+                </p>
+                <h5>DFS</h5>
+                The DFS section contains lineup optimizers, 
+                </p>
+                
+            
+            </p>
+
+
+
+            <p></p>
 
                 
 
