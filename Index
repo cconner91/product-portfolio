@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Portfolio</title>
+    <title>Charlie Conner - Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -25,7 +25,8 @@
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Hey there, my name is Charlie. I attended Towson University where I played baseball and ended up graduating with degrees in Sports Management and Business Administration.
+        <p>
+            Hey there, my name is Charlie. I attended Towson University where I played baseball and ended up graduating with degrees in Sports Management and Business Administration.
 
            While I'm an East Coast guy to my core but I've lived in sunny SoCal with my wife for the last 4 years (rough life, I know). 
 
@@ -76,9 +77,10 @@
     <section id="projects">
         <h2>Projects</h2>
         <div class="project">
-            <h3>SharkLine Sports</h3>
+            <h3>SharkLine Sports - https://sharklinesports.com</h3>
             <h4>Concept</h4>
-            <p>I wanted to work on a project that I was passionate as well as knowledgeable about. As an avid sports fan, I thought there would be no better place to explore than a sports application.
+            <p>
+                I wanted to work on a project that I was passionate as well as knowledgeable about. As an avid sports fan, I thought there would be no better place to explore than a sports application.
 
                 I first began thinking of any current problems or needs that could be fulfilled. My mind turned to sports betting and DFS (Daily Fantasy Sports). With the sports gaming market being 
                 one of the fastest growing and emerging industries in the country, I knew there were some deficiencies that existed.
@@ -89,10 +91,12 @@
                 With the emergence of DraftKings, Fanduel, Underdog and all of these sports betting/DFS applications, I hadn't seen a full-scale optimization tool that could be used alongside those applications. </p>
 
                 This is when I decided to begin SharkLine Sports. A sports betting and DFS portfolio management application. I wanted to allow users to have a simplified way to not only keep track of their bets, profits, losses and 
-                bankroll management, but also give them a tool to make strategy adjustments. My goal was to deliver user stories with a clean and modern UX/UI. </p>
+                bankroll management, but also give them a tool to make strategy adjustments. My goal was to deliver user stories with a clean and modern UX/UI. 
+            </p>
                 
             <h4>Project Framework</h4>
-            <p> I put together a product roadmap, analyzing everything from the the framework and tech stack that should be used, to each and every user story that would be in my beta version.
+            <p> 
+                I put together a product roadmap, analyzing everything from the the framework and tech stack that should be used, to each and every user story that would be in my beta version.
 
                 I created the architecture for my Github repo's and branches. I used Figma to design the application layout and Photoshop to create an eye-catching logo and color scheme.
 
@@ -101,8 +105,8 @@
                 While this made it a bit more challenging (and time consuming) than it would have for web developer, it has helped me gain a better understanding of building and integrating an application
                 with a full stack approach. 
                 
-                In my Product Roadmap, I included the following user stories I wanted to accomplish:</p>
-
+                In my Product Roadmap, I included the following user stories I wanted to accomplish:
+            </p>
         
               <h5>Main Lander</h5>
 
@@ -118,16 +122,22 @@
                     Odds Calculator and Bet Builder
                     
                 </p>
+               
                 <h5>DFS</h5>
-                The DFS section contains lineup optimizers, 
-                </p>
+            <p>
+                The DFS section contains lineup optimizers.
+            </p>
                 
-            
+                <h5>News and Blog</h5>
+            <p>    
+                Sports and Sports Betting News.
+
+                Affiliate program offers are also hosted on this page of the application.
             </p>
 
 
 
-            <p></p>
+            </p>
 
                 
 
